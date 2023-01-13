@@ -115,8 +115,8 @@ $cripMetodo = 'aes128';
 $cripSenha = 'dmlkYSBsb25nYSBlIHByb3NwZXJh';
 
 //API
-// $usuario = $_SERVER['PHP_AUTH_USER'];
-// $senha   = $_SERVER['PHP_AUTH_PW'];
+$usuario = $_SERVER['PHP_AUTH_USER'];
+$senha   = $_SERVER['PHP_AUTH_PW'];
 $data    = date("d/m/Y H:i:s");
 $localJson    = "../json/";
 $marketplaces = "8a433bcdc7e04c2993ae93c06b1cf716";
@@ -126,8 +126,5 @@ $splitvalor   = 1.50;
 $acao         = $urlapi[4];
 $chave        = $urlapi[5];
 
-// $usuario = 'gosoft';
-// $senha   = '9wd0bktqm2j531qx6csu4uwfwc1hlzkcmq5d';
-
-$usuario = 'teste';
-$senha   = '698dc19d489c4e4db73e28a713eab07b';
+$usuario = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$senha   = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
