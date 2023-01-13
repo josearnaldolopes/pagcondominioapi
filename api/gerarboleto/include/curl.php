@@ -51,9 +51,9 @@ curl_setopt_array($curl, array(
     }
 }',
   CURLOPT_HTTPHEADER => array(
-    'x-api-key: AEE154C13A4A41FBA99A23CC896FD3B7',
+    'x-api-key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     'Content-Type: application/json',
-    'Cookie: .AspNetCore.Session=CfDJ8Gb%2BFr1pKTBFoMuwXxZ5oUUZVxvNiuLMa%2BYWL12kghWnZ09EN%2BkuJj6luNTQwl378heVuPEW9KGhPHM2cuhranJEB%2FJyMeM0yUeotLlHvEbzP40CU5qIfBNjESLbX588YiLQ20V8M1G3zW3AL868H5nnEuBNSfghJDJXlAzufz7w; ARRAffinity=89e0c856cf114838a8f61309674a21cc1774a7106e5f4f7e1780e27e7b7a01a4; ARRAffinitySameSite=89e0c856cf114838a8f61309674a21cc1774a7106e5f4f7e1780e27e7b7a01a4; TiPMix=77.2254074817642; x-ms-routing-name=self'
+    'Cookie: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
   ),
 ));
 
