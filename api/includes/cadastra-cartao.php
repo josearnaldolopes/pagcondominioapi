@@ -10,10 +10,10 @@ curl_setopt_array($curl, array(
   CURLOPT_CUSTOMREQUEST => "POST",
   CURLOPT_POSTFIELDS => "{\"holder_name\":\"".$jsonBody['condomino']."\",\"card_number\":\"".$jsonBody['cartao']."\",\"expiration_month\":\"05\",\"expiration_year\":\"2022\",\"security_code\":\"".$jsonBody['cvv']."\"}",
   CURLOPT_HTTPHEADER => array(
-    "authorization: Basic enBrX3Rlc3Rfbm00UWtta0RZcmpsNnZCMjFXYXFJRjdkOg==",
+    "authorization: Basic xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "cache-control: no-cache",
     "content-type: application/json",
-    "postman-token: 7d878137-0c3b-6761-4017-acf68d7f3acf"
+    "postman-token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   ),
 ));
 
